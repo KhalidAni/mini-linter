@@ -61,7 +61,7 @@ function mostFrequentWord(words) {
 
 console.log('Most frequent word is:', mostFrequentWord(betterWords));
 
-const alternatives = {
+const alternatives = { 
     really: 'truly',
     very: 'extremely',
     basically: 'fundamentally'
